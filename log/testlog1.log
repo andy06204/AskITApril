@@ -1,0 +1,714 @@
+2022-04-06 15:13:33,770 [main] INFO finatinium - Entered Url
+2022-04-06 15:21:42,378 [main] INFO finatinium - Entered Url
+2022-04-06 15:21:49,882 [main] INFO finatinium - Entered username
+2022-04-06 15:21:50,018 [main] INFO finatinium - Entered password
+2022-04-06 15:39:58,509 [main] INFO finatinium - Entered Url
+2022-04-06 15:40:05,312 [main] INFO finatinium - Entered username
+2022-04-06 15:40:05,430 [main] INFO finatinium - Entered password
+2022-04-06 16:00:55,015 [main] INFO finatinium - Entered Url
+2022-04-06 16:01:02,339 [main] INFO finatinium - Entered username
+2022-04-06 16:01:02,569 [main] INFO finatinium - Entered password
+2022-04-06 16:14:17,012 [main] INFO finatinium - Entered Url
+2022-04-06 16:14:24,327 [main] INFO finatinium - Entered username
+2022-04-06 16:14:24,531 [main] INFO finatinium - Entered password
+2022-04-07 13:05:34,551 [main] INFO finatinium - Entered Url
+2022-04-07 13:05:41,262 [main] INFO finatinium - Entered username
+2022-04-07 13:05:41,356 [main] INFO finatinium - Entered password
+2022-04-07 13:07:05,518 [main] INFO finatinium - Entered Url
+2022-04-07 13:07:11,740 [main] INFO finatinium - Entered username
+2022-04-07 13:07:11,827 [main] INFO finatinium - Entered password
+2022-04-07 13:07:16,910 [main] INFO finatinium - Test case passed
+2022-04-07 13:09:31,673 [main] INFO finatinium - Entered Url
+2022-04-07 13:09:38,108 [main] INFO finatinium - Entered username
+2022-04-07 13:09:38,196 [main] INFO finatinium - Entered password
+2022-04-07 13:09:43,275 [main] INFO finatinium - Test case passed
+2022-04-07 13:17:19,489 [main] INFO finatinium - Entered Url
+2022-04-07 13:17:25,936 [main] INFO finatinium - Entered username
+2022-04-07 13:17:26,023 [main] INFO finatinium - Entered password
+2022-04-07 13:17:31,109 [main] INFO finatinium - Test case passed
+2022-04-07 13:32:05,448 [main] INFO finatinium - Entered Url
+2022-04-07 13:32:11,997 [main] INFO finatinium - Entered username
+2022-04-07 13:32:12,071 [main] INFO finatinium - Entered password
+2022-04-07 13:32:17,141 [main] INFO finatinium - Test case passed
+2022-04-07 13:37:31,429 [main] INFO finatinium - Entered Url
+2022-04-07 13:37:37,767 [main] INFO finatinium - Entered username
+2022-04-07 13:37:37,862 [main] INFO finatinium - Entered password
+2022-04-07 13:37:42,955 [main] INFO finatinium - Test case passed
+2022-04-07 13:51:11,787 [main] INFO finatinium - Entered Url
+2022-04-07 13:51:19,005 [main] INFO finatinium - Entered username
+2022-04-07 13:51:19,109 [main] INFO finatinium - Entered password
+2022-04-07 13:51:24,188 [main] INFO finatinium - Test case passed
+2022-04-07 13:56:05,503 [main] INFO finatinium - Entered Url
+2022-04-07 13:56:12,345 [main] INFO finatinium - Entered username
+2022-04-07 13:56:12,420 [main] INFO finatinium - Entered password
+2022-04-07 13:56:17,498 [main] INFO finatinium - Test case passed
+2022-04-07 14:05:34,077 [main] INFO finatinium - Entered Url
+2022-04-07 14:05:40,435 [main] INFO finatinium - Entered username
+2022-04-07 14:05:40,524 [main] INFO finatinium - Entered password
+2022-04-07 14:05:45,601 [main] INFO finatinium - Test case passed
+2022-04-07 14:58:44,146 [main] INFO finatinium - Entered Url
+2022-04-07 14:58:50,403 [main] INFO finatinium - Entered username
+2022-04-07 14:58:50,498 [main] INFO finatinium - Entered password
+2022-04-07 14:58:55,587 [main] INFO finatinium - Test case passed
+2022-04-07 14:58:55,715 [main] INFO finatinium - Reviewing the invoice capture
+2022-04-08 10:16:17,147 [main] INFO finatinium - Entered Url
+2022-04-08 10:16:23,972 [main] INFO finatinium - Entered username
+2022-04-08 10:16:24,046 [main] INFO finatinium - Entered password
+2022-04-08 10:16:29,138 [main] INFO finatinium - Test case passed
+2022-04-08 10:16:58,327 [main] INFO finatinium - Entered Url
+2022-04-08 10:17:04,742 [main] INFO finatinium - Entered username
+2022-04-08 10:17:04,827 [main] INFO finatinium - Entered password
+2022-04-08 10:17:09,902 [main] INFO finatinium - Test case passed
+2022-04-08 10:27:49,691 [main] INFO finatinium - Entered Url
+2022-04-08 10:27:56,405 [main] INFO finatinium - Entered username
+2022-04-08 10:27:56,494 [main] INFO finatinium - Entered password
+2022-04-08 10:28:01,586 [main] INFO finatinium - Test case passed
+2022-04-08 10:46:50,036 [main] INFO finatinium - Entered Url
+2022-04-08 10:46:57,355 [main] INFO finatinium - Entered username
+2022-04-08 10:46:57,455 [main] INFO finatinium - Entered password
+2022-04-08 10:47:02,525 [main] INFO finatinium - Test case passed
+2022-04-08 11:15:45,028 [main] INFO finatinium - Entered Url
+2022-04-08 11:15:51,572 [main] INFO finatinium - Entered username
+2022-04-08 11:15:51,662 [main] INFO finatinium - Entered password
+2022-04-08 11:15:56,722 [main] INFO finatinium - Test case passed
+2022-04-08 11:17:38,215 [main] INFO finatinium - Entered Url
+2022-04-08 11:17:44,610 [main] INFO finatinium - Entered username
+2022-04-08 11:17:44,705 [main] INFO finatinium - Entered password
+2022-04-08 11:17:49,795 [main] INFO finatinium - Test case passed
+2022-04-08 11:21:05,090 [main] INFO finatinium - Entered Url
+2022-04-08 11:21:11,470 [main] INFO finatinium - Entered username
+2022-04-08 11:21:11,548 [main] INFO finatinium - Entered password
+2022-04-08 11:21:16,633 [main] INFO finatinium - Test case passed
+2022-04-08 11:41:29,414 [main] INFO finatinium - Entered Url
+2022-04-08 11:43:05,766 [main] INFO finatinium - Entered Url
+2022-04-08 11:43:12,666 [main] INFO finatinium - Entered username
+2022-04-08 11:43:12,753 [main] INFO finatinium - Entered password
+2022-04-08 11:43:17,833 [main] INFO finatinium - Test case passed
+2022-04-08 11:44:11,956 [main] INFO finatinium - Entered Url
+2022-04-08 11:44:19,450 [main] INFO finatinium - Entered username
+2022-04-08 11:44:19,537 [main] INFO finatinium - Entered password
+2022-04-08 11:44:24,630 [main] INFO finatinium - Test case passed
+2022-04-08 11:46:21,489 [main] INFO finatinium - Entered Url
+2022-04-08 11:46:28,338 [main] INFO finatinium - Entered username
+2022-04-08 11:46:28,433 [main] INFO finatinium - Entered password
+2022-04-08 11:46:33,520 [main] INFO finatinium - Test case passed
+2022-04-08 11:50:44,405 [main] INFO finatinium - Entered Url
+2022-04-08 11:50:51,613 [main] INFO finatinium - Entered username
+2022-04-08 11:50:51,694 [main] INFO finatinium - Entered password
+2022-04-08 11:50:56,787 [main] INFO finatinium - Test case passed
+2022-04-08 11:54:08,357 [main] INFO finatinium - Entered Url
+2022-04-08 11:54:15,235 [main] INFO finatinium - Entered username
+2022-04-08 11:54:15,311 [main] INFO finatinium - Entered password
+2022-04-08 11:54:20,392 [main] INFO finatinium - Test case passed
+2022-04-08 11:56:43,198 [main] INFO finatinium - Entered Url
+2022-04-08 11:56:49,820 [main] INFO finatinium - Entered username
+2022-04-08 11:56:49,901 [main] INFO finatinium - Entered password
+2022-04-08 11:56:54,961 [main] INFO finatinium - Test case passed
+2022-04-08 12:07:08,477 [main] INFO finatinium - Entered Url
+2022-04-08 12:07:16,028 [main] INFO finatinium - Entered username
+2022-04-08 12:07:16,110 [main] INFO finatinium - Entered password
+2022-04-08 12:07:21,184 [main] INFO finatinium - Test case passed
+2022-04-08 12:08:16,240 [main] INFO finatinium - Entered Url
+2022-04-08 12:08:23,308 [main] INFO finatinium - Entered username
+2022-04-08 12:08:23,395 [main] INFO finatinium - Entered password
+2022-04-08 12:08:28,476 [main] INFO finatinium - Test case passed
+2022-04-08 12:13:30,952 [main] INFO finatinium - Entered Url
+2022-04-08 12:13:38,820 [main] INFO finatinium - Entered username
+2022-04-08 12:13:38,894 [main] INFO finatinium - Entered password
+2022-04-08 12:13:43,970 [main] INFO finatinium - Test case passed
+2022-04-08 12:14:40,040 [main] INFO finatinium - Entered Url
+2022-04-08 12:14:46,815 [main] INFO finatinium - Entered username
+2022-04-08 12:14:46,911 [main] INFO finatinium - Entered password
+2022-04-08 12:14:51,976 [main] INFO finatinium - Test case passed
+2022-04-08 12:17:01,487 [main] INFO finatinium - Entered Url
+2022-04-08 12:17:08,020 [main] INFO finatinium - Entered username
+2022-04-08 12:17:08,091 [main] INFO finatinium - Entered password
+2022-04-08 12:17:13,179 [main] INFO finatinium - Test case passed
+2022-04-08 12:19:03,861 [main] INFO finatinium - Entered Url
+2022-04-08 12:19:10,823 [main] INFO finatinium - Entered username
+2022-04-08 12:19:10,902 [main] INFO finatinium - Entered password
+2022-04-08 12:19:15,978 [main] INFO finatinium - Test case passed
+2022-04-08 12:33:34,234 [main] INFO finatinium - Entered Url
+2022-04-08 12:33:42,015 [main] INFO finatinium - Entered username
+2022-04-08 12:33:42,111 [main] INFO finatinium - Entered password
+2022-04-08 12:33:47,182 [main] INFO finatinium - Test case passed
+2022-04-08 12:40:42,541 [main] INFO finatinium - Entered Url
+2022-04-08 12:40:49,015 [main] INFO finatinium - Entered username
+2022-04-08 12:40:49,108 [main] INFO finatinium - Entered password
+2022-04-08 12:40:54,175 [main] INFO finatinium - Test case passed
+2022-04-08 12:44:55,849 [main] INFO finatinium - Entered Url
+2022-04-08 12:45:02,587 [main] INFO finatinium - Entered username
+2022-04-08 12:45:02,675 [main] INFO finatinium - Entered password
+2022-04-08 12:45:07,748 [main] INFO finatinium - Test case passed
+2022-04-08 13:00:56,403 [main] INFO finatinium - Entered Url
+2022-04-08 13:01:04,142 [main] INFO finatinium - Entered username
+2022-04-08 13:01:04,222 [main] INFO finatinium - Entered password
+2022-04-08 13:01:09,297 [main] INFO finatinium - Test case passed
+2022-04-08 13:14:23,598 [main] INFO finatinium - Entered Url
+2022-04-08 13:14:30,373 [main] INFO finatinium - Entered username
+2022-04-08 13:14:30,462 [main] INFO finatinium - Entered password
+2022-04-08 13:14:35,543 [main] INFO finatinium - Test case passed
+2022-04-08 13:16:53,735 [main] INFO finatinium - Entered Url
+2022-04-08 13:17:00,340 [main] INFO finatinium - Entered username
+2022-04-08 13:17:00,424 [main] INFO finatinium - Entered password
+2022-04-08 13:17:05,484 [main] INFO finatinium - Test case passed
+2022-04-08 13:42:47,535 [main] INFO finatinium - Entered Url
+2022-04-08 13:42:55,164 [main] INFO finatinium - Entered username
+2022-04-08 13:42:55,279 [main] INFO finatinium - Entered password
+2022-04-08 13:43:00,392 [main] INFO finatinium - Test case passed
+2022-04-08 16:00:33,557 [main] INFO finatinium - Entered Url
+2022-04-08 16:00:39,077 [main] INFO finatinium - Entered username
+2022-04-08 16:00:39,173 [main] INFO finatinium - Entered password
+2022-04-08 16:00:44,269 [main] INFO finatinium - Test case passed
+2022-04-08 16:02:37,930 [main] INFO finatinium - Entered Url
+2022-04-08 16:02:43,724 [main] INFO finatinium - Entered username
+2022-04-08 16:02:43,817 [main] INFO finatinium - Entered password
+2022-04-08 16:02:48,889 [main] INFO finatinium - Test case passed
+2022-04-08 16:18:20,078 [main] INFO finatinium - Entered Url
+2022-04-08 16:18:25,379 [main] INFO finatinium - Entered username
+2022-04-08 16:18:25,458 [main] INFO finatinium - Entered password
+2022-04-08 16:18:30,538 [main] INFO finatinium - Test case passed
+2022-04-08 16:24:49,867 [main] INFO finatinium - Entered Url
+2022-04-08 16:24:55,266 [main] INFO finatinium - Entered username
+2022-04-08 16:24:55,355 [main] INFO finatinium - Entered password
+2022-04-08 16:25:00,463 [main] INFO finatinium - Test case passed
+2022-04-08 16:26:29,177 [main] INFO finatinium - Entered Url
+2022-04-08 16:26:34,538 [main] INFO finatinium - Entered username
+2022-04-08 16:26:34,637 [main] INFO finatinium - Entered password
+2022-04-08 16:26:39,720 [main] INFO finatinium - Test case passed
+2022-04-08 17:57:29,805 [main] INFO finatinium - Entered Url
+2022-04-08 17:57:37,655 [main] INFO finatinium - Entered username
+2022-04-08 17:57:37,794 [main] INFO finatinium - Entered password
+2022-04-08 17:57:42,932 [main] INFO finatinium - Test case passed
+2022-04-08 17:58:06,022 [main] INFO finatinium - Element Selected
+2022-04-08 18:10:31,407 [main] INFO finatinium - Entered Url
+2022-04-08 18:10:38,149 [main] INFO finatinium - Entered username
+2022-04-08 18:10:38,275 [main] INFO finatinium - Entered password
+2022-04-08 18:10:43,403 [main] INFO finatinium - Test case passed
+2022-04-08 18:17:43,001 [main] INFO finatinium - Entered Url
+2022-04-08 18:17:50,013 [main] INFO finatinium - Entered username
+2022-04-08 18:17:50,179 [main] INFO finatinium - Entered password
+2022-04-08 18:17:55,280 [main] INFO finatinium - Test case passed
+2022-04-08 18:20:17,067 [main] INFO finatinium - Entered Url
+2022-04-08 18:20:23,847 [main] INFO finatinium - Entered username
+2022-04-08 18:20:24,102 [main] INFO finatinium - Entered password
+2022-04-08 18:20:29,258 [main] INFO finatinium - Test case passed
+2022-04-08 18:34:59,227 [main] INFO finatinium - Entered Url
+2022-04-08 18:35:06,855 [main] INFO finatinium - Entered username
+2022-04-08 18:35:06,988 [main] INFO finatinium - Entered password
+2022-04-08 18:35:12,085 [main] INFO finatinium - Test case passed
+2022-04-08 18:41:06,812 [main] INFO finatinium - Entered Url
+2022-04-08 18:41:13,955 [main] INFO finatinium - Entered username
+2022-04-08 18:41:14,140 [main] INFO finatinium - Entered password
+2022-04-08 18:41:19,323 [main] INFO finatinium - Test case passed
+2022-04-08 18:41:32,488 [main] INFO finatinium - Element Selected
+2022-04-08 18:44:49,757 [main] INFO finatinium - Entered Url
+2022-04-08 18:44:56,065 [main] INFO finatinium - Entered username
+2022-04-08 18:44:56,249 [main] INFO finatinium - Entered password
+2022-04-08 18:45:01,450 [main] INFO finatinium - Test case passed
+2022-04-08 18:45:14,538 [main] INFO finatinium - Element Selected
+2022-04-08 18:48:02,687 [main] INFO finatinium - Entered Url
+2022-04-08 18:48:09,425 [main] INFO finatinium - Entered username
+2022-04-08 18:48:09,569 [main] INFO finatinium - Entered password
+2022-04-08 18:48:14,755 [main] INFO finatinium - Test case passed
+2022-04-08 18:48:30,493 [main] INFO finatinium - Element Selected
+2022-04-10 14:02:14,546 [main] INFO finatinium - Entered Url
+2022-04-10 14:02:22,100 [main] INFO finatinium - Entered username
+2022-04-10 14:02:22,259 [main] INFO finatinium - Entered password
+2022-04-10 14:02:27,416 [main] INFO finatinium - Test case passed
+2022-04-10 14:02:40,336 [main] INFO finatinium - Element Selected
+2022-04-10 14:03:43,099 [main] INFO finatinium - Entered Url
+2022-04-10 14:03:49,467 [main] INFO finatinium - Entered username
+2022-04-10 14:03:49,671 [main] INFO finatinium - Entered password
+2022-04-10 14:03:54,797 [main] INFO finatinium - Test case passed
+2022-04-10 14:14:38,267 [main] INFO finatinium - Entered Url
+2022-04-10 14:14:45,556 [main] INFO finatinium - Entered username
+2022-04-10 14:14:45,838 [main] INFO finatinium - Entered password
+2022-04-10 14:14:51,066 [main] INFO finatinium - Test case passed
+2022-04-10 14:33:56,254 [main] INFO finatinium - Entered Url
+2022-04-10 14:34:03,735 [main] INFO finatinium - Entered username
+2022-04-10 14:34:03,888 [main] INFO finatinium - Entered password
+2022-04-10 14:34:08,988 [main] INFO finatinium - Test case passed
+2022-04-10 14:35:05,169 [main] INFO finatinium - Entered Url
+2022-04-10 14:35:12,620 [main] INFO finatinium - Entered username
+2022-04-10 14:35:12,888 [main] INFO finatinium - Entered password
+2022-04-10 14:35:18,106 [main] INFO finatinium - Test case passed
+2022-04-10 15:25:57,963 [main] INFO finatinium - Entered Url
+2022-04-10 15:26:05,313 [main] INFO finatinium - Entered username
+2022-04-10 15:26:05,557 [main] INFO finatinium - Entered password
+2022-04-10 15:26:10,807 [main] INFO finatinium - Test case passed
+2022-04-10 15:33:16,112 [main] INFO finatinium - Entered Url
+2022-04-10 15:33:22,762 [main] INFO finatinium - Entered username
+2022-04-10 15:33:22,915 [main] INFO finatinium - Entered password
+2022-04-10 15:33:28,032 [main] INFO finatinium - Test case passed
+2022-04-10 15:36:59,466 [main] INFO finatinium - Entered Url
+2022-04-10 15:37:06,651 [main] INFO finatinium - Entered username
+2022-04-10 15:37:06,903 [main] INFO finatinium - Entered password
+2022-04-10 15:37:12,139 [main] INFO finatinium - Test case passed
+2022-04-10 15:42:04,175 [main] INFO finatinium - Entered Url
+2022-04-10 15:42:11,553 [main] INFO finatinium - Entered username
+2022-04-10 15:42:11,801 [main] INFO finatinium - Entered password
+2022-04-10 15:42:17,027 [main] INFO finatinium - Test case passed
+2022-04-10 15:44:33,724 [main] INFO finatinium - Entered Url
+2022-04-10 15:44:40,486 [main] INFO finatinium - Entered username
+2022-04-10 15:44:40,636 [main] INFO finatinium - Entered password
+2022-04-10 15:44:45,759 [main] INFO finatinium - Test case passed
+2022-04-10 20:22:51,630 [main] INFO finatinium - Entered Url
+2022-04-10 20:23:23,629 [main] INFO finatinium - Entered Url
+2022-04-10 20:23:29,915 [main] INFO finatinium - Entered username
+2022-04-10 20:23:30,030 [main] INFO finatinium - Entered password
+2022-04-10 20:23:35,113 [main] INFO finatinium - Test case passed
+2022-04-10 20:24:30,393 [main] INFO finatinium - Entered Url
+2022-04-10 20:24:35,929 [main] INFO finatinium - Entered username
+2022-04-10 20:24:36,069 [main] INFO finatinium - Entered password
+2022-04-10 20:24:41,200 [main] INFO finatinium - Test case passed
+2022-04-10 20:33:08,953 [main] INFO finatinium - Entered Url
+2022-04-10 20:33:14,623 [main] INFO finatinium - Entered username
+2022-04-10 20:33:14,708 [main] INFO finatinium - Entered password
+2022-04-10 20:33:19,788 [main] INFO finatinium - Test case passed
+2022-04-10 20:40:35,084 [main] INFO finatinium - Entered Url
+2022-04-10 20:40:40,681 [main] INFO finatinium - Entered username
+2022-04-10 20:40:40,761 [main] INFO finatinium - Entered password
+2022-04-10 20:40:45,836 [main] INFO finatinium - Test case passed
+2022-04-10 20:40:57,719 [main] INFO finatinium - Item has been added succesfully
+2022-04-10 21:03:16,756 [main] INFO finatinium - Entered Url
+2022-04-10 21:03:23,660 [main] INFO finatinium - Entered username
+2022-04-10 21:03:23,808 [main] INFO finatinium - Entered password
+2022-04-10 21:03:28,986 [main] INFO finatinium - Test case passed
+2022-04-10 21:07:12,649 [main] INFO finatinium - Entered Url
+2022-04-10 21:07:19,849 [main] INFO finatinium - Entered username
+2022-04-10 21:07:20,094 [main] INFO finatinium - Entered password
+2022-04-10 21:07:25,306 [main] INFO finatinium - Test case passed
+2022-04-10 21:11:19,861 [main] INFO finatinium - Entered Url
+2022-04-10 21:11:26,765 [main] INFO finatinium - Entered username
+2022-04-10 21:11:26,913 [main] INFO finatinium - Entered password
+2022-04-10 21:11:32,042 [main] INFO finatinium - Test case passed
+2022-04-10 21:14:48,699 [main] INFO finatinium - Entered Url
+2022-04-10 21:14:55,707 [main] INFO finatinium - Entered username
+2022-04-10 21:14:55,862 [main] INFO finatinium - Entered password
+2022-04-10 21:15:00,985 [main] INFO finatinium - Test case passed
+2022-04-10 21:22:50,217 [main] INFO finatinium - Entered Url
+2022-04-10 21:22:57,640 [main] INFO finatinium - Entered username
+2022-04-10 21:22:57,778 [main] INFO finatinium - Entered password
+2022-04-10 21:23:02,917 [main] INFO finatinium - Test case passed
+2022-04-10 21:27:02,662 [main] INFO finatinium - Entered Url
+2022-04-10 21:27:08,491 [main] INFO finatinium - Entered username
+2022-04-10 21:27:08,613 [main] INFO finatinium - Entered password
+2022-04-10 21:27:13,731 [main] INFO finatinium - Test case passed
+2022-04-10 21:28:15,375 [main] INFO finatinium - Entered Url
+2022-04-10 21:28:20,904 [main] INFO finatinium - Entered username
+2022-04-10 21:28:21,035 [main] INFO finatinium - Entered password
+2022-04-10 21:28:26,123 [main] INFO finatinium - Test case passed
+2022-04-10 21:32:03,673 [main] INFO finatinium - Entered Url
+2022-04-10 21:32:09,504 [main] INFO finatinium - Entered username
+2022-04-10 21:32:09,594 [main] INFO finatinium - Entered password
+2022-04-10 21:32:14,674 [main] INFO finatinium - Test case passed
+2022-04-10 21:33:56,984 [main] INFO finatinium - Entered Url
+2022-04-10 21:34:02,487 [main] INFO finatinium - Entered username
+2022-04-10 21:34:02,583 [main] INFO finatinium - Entered password
+2022-04-10 21:34:07,667 [main] INFO finatinium - Test case passed
+2022-04-10 21:39:59,453 [main] INFO finatinium - Entered Url
+2022-04-10 21:40:04,973 [main] INFO finatinium - Entered username
+2022-04-10 21:40:05,076 [main] INFO finatinium - Entered password
+2022-04-10 21:40:10,165 [main] INFO finatinium - Test case passed
+2022-04-10 21:43:56,315 [main] INFO finatinium - Entered Url
+2022-04-10 21:44:01,892 [main] INFO finatinium - Entered username
+2022-04-10 21:44:01,990 [main] INFO finatinium - Entered password
+2022-04-10 21:44:07,071 [main] INFO finatinium - Test case passed
+2022-04-10 21:49:38,150 [main] INFO finatinium - Entered Url
+2022-04-10 21:49:44,052 [main] INFO finatinium - Entered username
+2022-04-10 21:49:44,221 [main] INFO finatinium - Entered password
+2022-04-10 21:49:49,321 [main] INFO finatinium - Test case passed
+2022-04-10 21:56:04,117 [main] INFO finatinium - Entered Url
+2022-04-10 21:56:09,792 [main] INFO finatinium - Entered username
+2022-04-10 21:56:09,893 [main] INFO finatinium - Entered password
+2022-04-10 21:56:14,998 [main] INFO finatinium - Test case passed
+2022-04-10 22:02:47,718 [main] INFO finatinium - Entered Url
+2022-04-10 22:02:53,381 [main] INFO finatinium - Entered username
+2022-04-10 22:02:53,484 [main] INFO finatinium - Entered password
+2022-04-10 22:02:58,581 [main] INFO finatinium - Test case passed
+2022-04-10 22:11:19,159 [main] INFO finatinium - Entered Url
+2022-04-10 22:11:24,834 [main] INFO finatinium - Entered username
+2022-04-10 22:11:24,932 [main] INFO finatinium - Entered password
+2022-04-10 22:11:30,028 [main] INFO finatinium - Test case passed
+2022-04-10 22:13:22,166 [main] INFO finatinium - Entered Url
+2022-04-10 22:13:27,717 [main] INFO finatinium - Entered username
+2022-04-10 22:13:27,816 [main] INFO finatinium - Entered password
+2022-04-10 22:13:32,901 [main] INFO finatinium - Test case passed
+2022-04-10 22:21:19,744 [main] INFO finatinium - Entered Url
+2022-04-10 22:21:25,364 [main] INFO finatinium - Entered username
+2022-04-10 22:21:25,454 [main] INFO finatinium - Entered password
+2022-04-10 22:21:30,543 [main] INFO finatinium - Test case passed
+2022-04-10 22:28:57,822 [main] INFO finatinium - Entered Url
+2022-04-10 22:29:03,238 [main] INFO finatinium - Entered username
+2022-04-10 22:29:03,318 [main] INFO finatinium - Entered password
+2022-04-10 22:29:08,443 [main] INFO finatinium - Test case passed
+2022-04-10 22:41:21,067 [main] INFO finatinium - Entered Url
+2022-04-10 22:41:41,443 [main] INFO finatinium - Entered Url
+2022-04-10 22:41:46,612 [main] INFO finatinium - Entered username
+2022-04-10 22:41:46,696 [main] INFO finatinium - Entered password
+2022-04-10 22:41:51,770 [main] INFO finatinium - Test case passed
+2022-04-11 10:01:45,577 [main] INFO finatinium - Entered Url
+2022-04-11 10:01:51,396 [main] INFO finatinium - Entered username
+2022-04-11 10:01:51,546 [main] INFO finatinium - Entered password
+2022-04-11 10:01:56,645 [main] INFO finatinium - Test case passed
+2022-04-11 10:08:21,936 [main] INFO finatinium - Entered Url
+2022-04-11 10:08:27,807 [main] INFO finatinium - Entered username
+2022-04-11 10:08:27,903 [main] INFO finatinium - Entered password
+2022-04-11 10:08:33,002 [main] INFO finatinium - Test case passed
+2022-04-11 10:08:45,137 [main] INFO finatinium - Entered Url
+2022-04-11 10:08:50,707 [main] INFO finatinium - Entered username
+2022-04-11 10:08:50,830 [main] INFO finatinium - Entered password
+2022-04-11 10:08:55,934 [main] INFO finatinium - Test case passed
+2022-04-11 10:08:57,150 [main] INFO finatinium - Billing pdf downloaded successfully
+2022-04-11 10:09:09,287 [main] INFO finatinium - Entered Url
+2022-04-11 10:09:14,927 [main] INFO finatinium - Entered username
+2022-04-11 10:09:15,067 [main] INFO finatinium - Entered password
+2022-04-11 10:09:20,140 [main] INFO finatinium - Test case passed
+2022-04-11 10:11:09,746 [main] INFO finatinium - Entered Url
+2022-04-11 10:11:15,304 [main] INFO finatinium - Entered username
+2022-04-11 10:11:15,407 [main] INFO finatinium - Entered password
+2022-04-11 10:11:20,498 [main] INFO finatinium - Test case passed
+2022-04-11 22:31:13,174 [main] INFO finatinium - Entered Url
+2022-04-11 22:31:19,308 [main] INFO finatinium - Entered username
+2022-04-11 22:31:19,463 [main] INFO finatinium - Entered password
+2022-04-11 22:31:24,551 [main] INFO finatinium - Test case passed
+2022-04-11 22:31:36,801 [main] INFO finatinium - Entered Url
+2022-04-11 22:31:42,571 [main] INFO finatinium - Entered username
+2022-04-11 22:31:42,762 [main] INFO finatinium - Entered password
+2022-04-11 22:31:47,858 [main] INFO finatinium - Test case passed
+2022-04-11 22:31:49,262 [main] INFO finatinium - Billing pdf downloaded successfully
+2022-04-11 22:32:01,598 [main] INFO finatinium - Entered Url
+2022-04-11 22:32:07,328 [main] INFO finatinium - Entered username
+2022-04-11 22:32:07,455 [main] INFO finatinium - Entered password
+2022-04-11 22:32:12,534 [main] INFO finatinium - Test case passed
+2022-04-11 22:32:37,067 [main] INFO finatinium - Entered Url
+2022-04-11 22:32:43,082 [main] INFO finatinium - Entered username
+2022-04-11 22:32:43,307 [main] INFO finatinium - Entered password
+2022-04-11 22:32:48,423 [main] INFO finatinium - Test case passed
+2022-04-12 12:49:51,554 [main] INFO finatinium - Entered Url
+2022-04-12 12:49:58,296 [main] INFO finatinium - Entered password
+2022-04-12 12:49:58,297 [main] INFO finatinium - Entered password
+2022-04-12 12:50:03,413 [main] INFO finatinium - Test case passed
+2022-04-12 13:25:46,439 [main] INFO finatinium - Entered Url
+2022-04-12 13:25:52,213 [main] INFO finatinium - Entered password
+2022-04-12 13:25:52,214 [main] INFO finatinium - Entered password
+2022-04-12 13:25:57,308 [main] INFO finatinium - Test case passed
+2022-04-12 13:27:39,136 [main] INFO finatinium - Entered Url
+2022-04-12 13:27:44,670 [main] INFO finatinium - Entered password
+2022-04-12 13:27:44,672 [main] INFO finatinium - Entered password
+2022-04-12 13:27:49,754 [main] INFO finatinium - Test case passed
+2022-04-12 15:03:07,098 [main] INFO finatinium - Entered Url
+2022-04-12 15:03:12,781 [main] INFO finatinium - Entered password
+2022-04-12 15:03:12,782 [main] INFO finatinium - Entered password
+2022-04-12 15:03:17,860 [main] INFO finatinium - Test case passed
+2022-04-12 15:04:33,067 [main] INFO finatinium - Entered Url
+2022-04-12 15:04:39,139 [main] INFO finatinium - Entered password
+2022-04-12 15:04:39,140 [main] INFO finatinium - Entered password
+2022-04-12 15:04:44,227 [main] INFO finatinium - Test case passed
+2022-04-12 15:09:52,659 [main] INFO finatinium - Entered Url
+2022-04-12 15:09:58,344 [main] INFO finatinium - Entered password
+2022-04-12 15:09:58,344 [main] INFO finatinium - Entered password
+2022-04-12 15:10:03,440 [main] INFO finatinium - Test case passed
+2022-04-12 15:10:41,918 [main] INFO finatinium - Entered Url
+2022-04-12 15:10:47,350 [main] INFO finatinium - Entered password
+2022-04-12 15:10:47,350 [main] INFO finatinium - Entered password
+2022-04-12 15:10:52,449 [main] INFO finatinium - Test case passed
+2022-04-12 15:14:50,051 [main] INFO finatinium - Entered Url
+2022-04-12 15:14:55,506 [main] INFO finatinium - Entered password
+2022-04-12 15:14:55,507 [main] INFO finatinium - Entered password
+2022-04-12 15:15:00,587 [main] INFO finatinium - Test case passed
+2022-04-12 15:28:26,803 [main] INFO finatinium - Entered Url
+2022-04-12 15:28:32,371 [main] INFO finatinium - Entered password
+2022-04-12 15:28:32,371 [main] INFO finatinium - Entered password
+2022-04-12 15:28:37,469 [main] INFO finatinium - Test case passed
+2022-04-12 15:30:08,566 [main] INFO finatinium - Entered Url
+2022-04-12 15:30:14,162 [main] INFO finatinium - Entered password
+2022-04-12 15:30:14,162 [main] INFO finatinium - Entered password
+2022-04-12 15:30:19,248 [main] INFO finatinium - Test case passed
+2022-04-12 15:44:28,029 [main] INFO finatinium - Entered Url
+2022-04-12 15:44:33,597 [main] INFO finatinium - Entered password
+2022-04-12 15:44:33,598 [main] INFO finatinium - Entered password
+2022-04-12 15:44:38,692 [main] INFO finatinium - Test case passed
+2022-04-12 15:46:47,500 [main] INFO finatinium - Entered Url
+2022-04-12 15:46:53,151 [main] INFO finatinium - Entered password
+2022-04-12 15:46:53,151 [main] INFO finatinium - Entered password
+2022-04-12 15:46:58,226 [main] INFO finatinium - Test case passed
+2022-04-12 15:52:34,836 [main] INFO finatinium - Entered Url
+2022-04-12 15:52:40,638 [main] INFO finatinium - Entered password
+2022-04-12 15:52:40,639 [main] INFO finatinium - Entered password
+2022-04-12 15:52:45,725 [main] INFO finatinium - Test case passed
+2022-04-12 15:54:06,549 [main] INFO finatinium - Entered Url
+2022-04-12 15:54:12,455 [main] INFO finatinium - Entered password
+2022-04-12 15:54:12,456 [main] INFO finatinium - Entered password
+2022-04-12 15:54:17,556 [main] INFO finatinium - Test case passed
+2022-04-12 15:59:15,419 [main] INFO finatinium - Entered Url
+2022-04-12 15:59:21,172 [main] INFO finatinium - Entered password
+2022-04-12 15:59:21,172 [main] INFO finatinium - Entered password
+2022-04-12 15:59:26,274 [main] INFO finatinium - Test case passed
+2022-04-12 16:03:46,396 [main] INFO finatinium - Entered Url
+2022-04-12 16:03:52,112 [main] INFO finatinium - Entered password
+2022-04-12 16:03:52,112 [main] INFO finatinium - Entered password
+2022-04-12 16:03:57,213 [main] INFO finatinium - Test case passed
+2022-04-12 16:05:18,793 [main] INFO finatinium - Entered Url
+2022-04-12 16:05:24,626 [main] INFO finatinium - Entered password
+2022-04-12 16:05:24,626 [main] INFO finatinium - Entered password
+2022-04-12 16:05:29,699 [main] INFO finatinium - Test case passed
+2022-04-12 16:09:08,542 [main] INFO finatinium - Entered Url
+2022-04-12 16:09:13,978 [main] INFO finatinium - Entered password
+2022-04-12 16:09:13,978 [main] INFO finatinium - Entered password
+2022-04-12 16:09:19,065 [main] INFO finatinium - Test case passed
+2022-04-12 16:17:05,794 [main] INFO finatinium - Entered Url
+2022-04-12 16:17:11,613 [main] INFO finatinium - Entered password
+2022-04-12 16:17:11,615 [main] INFO finatinium - Entered password
+2022-04-12 16:17:16,694 [main] INFO finatinium - Test case passed
+2022-04-12 16:21:06,568 [main] INFO finatinium - Entered Url
+2022-04-12 16:21:12,211 [main] INFO finatinium - Entered password
+2022-04-12 16:21:12,211 [main] INFO finatinium - Entered password
+2022-04-12 16:21:17,289 [main] INFO finatinium - Test case passed
+2022-04-12 16:25:38,677 [main] INFO finatinium - Entered Url
+2022-04-12 16:25:44,464 [main] INFO finatinium - Entered password
+2022-04-12 16:25:44,465 [main] INFO finatinium - Entered password
+2022-04-12 16:25:49,545 [main] INFO finatinium - Test case passed
+2022-04-12 16:28:52,158 [main] INFO finatinium - Entered Url
+2022-04-12 16:28:57,696 [main] INFO finatinium - Entered password
+2022-04-12 16:28:57,696 [main] INFO finatinium - Entered password
+2022-04-12 16:29:02,779 [main] INFO finatinium - Test case passed
+2022-04-12 16:38:34,172 [main] INFO finatinium - Entered Url
+2022-04-12 16:38:39,716 [main] INFO finatinium - Entered password
+2022-04-12 16:38:39,717 [main] INFO finatinium - Entered password
+2022-04-12 16:38:44,792 [main] INFO finatinium - Test case passed
+2022-04-12 17:04:11,221 [main] INFO finatinium - Entered Url
+2022-04-12 17:04:16,996 [main] INFO finatinium - Entered password
+2022-04-12 17:04:16,996 [main] INFO finatinium - Entered password
+2022-04-12 17:04:22,090 [main] INFO finatinium - Test case passed
+2022-04-12 17:05:30,492 [main] INFO finatinium - Entered Url
+2022-04-12 17:05:36,014 [main] INFO finatinium - Entered password
+2022-04-12 17:05:36,014 [main] INFO finatinium - Entered password
+2022-04-12 17:05:41,094 [main] INFO finatinium - Test case passed
+2022-04-12 19:39:57,296 [main] INFO finatinium - Entered Url
+2022-04-12 19:40:06,027 [main] INFO finatinium - Entered password
+2022-04-12 19:40:06,028 [main] INFO finatinium - Entered password
+2022-04-12 19:40:11,139 [main] INFO finatinium - Test case passed
+2022-04-12 19:46:46,929 [main] INFO finatinium - Entered Url
+2022-04-12 19:46:55,814 [main] INFO finatinium - Entered password
+2022-04-12 19:46:55,814 [main] INFO finatinium - Entered password
+2022-04-12 19:47:00,932 [main] INFO finatinium - Test case passed
+2022-04-12 19:51:33,809 [main] INFO finatinium - Entered Url
+2022-04-12 19:51:42,610 [main] INFO finatinium - Entered password
+2022-04-12 19:51:42,611 [main] INFO finatinium - Entered password
+2022-04-12 19:51:47,713 [main] INFO finatinium - Test case passed
+2022-04-12 20:17:36,215 [main] INFO finatinium - Entered Url
+2022-04-12 20:17:45,080 [main] INFO finatinium - Entered password
+2022-04-12 20:17:45,081 [main] INFO finatinium - Entered password
+2022-04-12 20:17:50,195 [main] INFO finatinium - Test case passed
+2022-04-12 20:20:57,764 [main] INFO finatinium - Entered Url
+2022-04-12 20:21:06,485 [main] INFO finatinium - Entered password
+2022-04-12 20:21:06,485 [main] INFO finatinium - Entered password
+2022-04-12 20:21:11,594 [main] INFO finatinium - Test case passed
+2022-04-12 20:25:25,474 [main] INFO finatinium - Entered Url
+2022-04-12 20:25:34,036 [main] INFO finatinium - Entered password
+2022-04-12 20:25:34,037 [main] INFO finatinium - Entered password
+2022-04-12 20:25:39,159 [main] INFO finatinium - Test case passed
+2022-04-12 20:30:59,752 [main] INFO finatinium - Entered Url
+2022-04-12 20:31:09,136 [main] INFO finatinium - Entered password
+2022-04-12 20:31:09,137 [main] INFO finatinium - Entered password
+2022-04-12 20:31:14,381 [main] INFO finatinium - Test case passed
+2022-04-12 20:40:02,075 [main] INFO finatinium - Entered Url
+2022-04-12 20:40:10,601 [main] INFO finatinium - Entered password
+2022-04-12 20:40:10,602 [main] INFO finatinium - Entered password
+2022-04-12 20:40:15,738 [main] INFO finatinium - Test case passed
+2022-04-12 20:44:26,006 [main] INFO finatinium - Entered Url
+2022-04-12 20:44:34,122 [main] INFO finatinium - Entered password
+2022-04-12 20:44:34,124 [main] INFO finatinium - Entered password
+2022-04-12 20:44:39,247 [main] INFO finatinium - Test case passed
+2022-04-12 20:46:59,226 [main] INFO finatinium - Entered Url
+2022-04-12 20:47:07,540 [main] INFO finatinium - Entered password
+2022-04-12 20:47:07,540 [main] INFO finatinium - Entered password
+2022-04-12 20:47:12,659 [main] INFO finatinium - Test case passed
+2022-04-12 20:49:40,802 [main] INFO finatinium - Entered Url
+2022-04-12 20:49:49,725 [main] INFO finatinium - Entered password
+2022-04-12 20:49:49,726 [main] INFO finatinium - Entered password
+2022-04-12 20:49:54,847 [main] INFO finatinium - Test case passed
+2022-04-12 21:07:41,553 [main] INFO finatinium - Entered Url
+2022-04-12 21:07:50,318 [main] INFO finatinium - Entered password
+2022-04-12 21:07:50,318 [main] INFO finatinium - Entered password
+2022-04-12 21:07:55,423 [main] INFO finatinium - Test case passed
+2022-04-12 21:11:58,533 [main] INFO finatinium - Entered Url
+2022-04-12 21:12:07,032 [main] INFO finatinium - Entered password
+2022-04-12 21:12:07,032 [main] INFO finatinium - Entered password
+2022-04-12 21:12:12,222 [main] INFO finatinium - Test case passed
+2022-04-12 21:15:30,297 [main] INFO finatinium - Entered Url
+2022-04-12 21:15:39,812 [main] INFO finatinium - Entered password
+2022-04-12 21:15:39,813 [main] INFO finatinium - Entered password
+2022-04-12 21:15:44,995 [main] INFO finatinium - Test case passed
+2022-04-13 10:22:25,191 [main] INFO finatinium - Entered Url
+2022-04-13 10:22:30,666 [main] INFO finatinium - Entered password
+2022-04-13 10:22:30,667 [main] INFO finatinium - Entered password
+2022-04-13 10:22:36,610 [main] INFO finatinium - Test case passed
+2022-04-13 10:23:35,670 [main] INFO finatinium - Entered Url
+2022-04-13 10:23:41,043 [main] INFO finatinium - Entered password
+2022-04-13 10:23:41,043 [main] INFO finatinium - Entered password
+2022-04-13 10:23:47,116 [main] INFO finatinium - Test case passed
+2022-04-13 10:24:56,555 [main] INFO finatinium - Entered Url
+2022-04-13 10:25:01,973 [main] INFO finatinium - Entered password
+2022-04-13 10:25:01,974 [main] INFO finatinium - Entered password
+2022-04-13 10:25:07,879 [main] INFO finatinium - Test case passed
+2022-04-13 10:25:08,010 [main] INFO finatinium - Reviewing the invoice capture bill
+2022-04-13 10:25:53,419 [main] INFO finatinium - Entered Url
+2022-04-13 10:25:58,650 [main] INFO finatinium - Entered password
+2022-04-13 10:25:58,650 [main] INFO finatinium - Entered password
+2022-04-13 10:26:04,522 [main] INFO finatinium - Test case passed
+2022-04-13 10:27:11,272 [main] INFO finatinium - Entered Url
+2022-04-13 10:27:16,502 [main] INFO finatinium - Entered password
+2022-04-13 10:27:16,502 [main] INFO finatinium - Entered password
+2022-04-13 10:27:22,334 [main] INFO finatinium - Test case passed
+2022-04-13 10:28:03,653 [main] INFO finatinium - Entered Url
+2022-04-13 10:28:09,531 [main] INFO finatinium - Entered password
+2022-04-13 10:28:09,531 [main] INFO finatinium - Entered password
+2022-04-13 10:28:15,512 [main] INFO finatinium - Test case passed
+2022-04-13 10:29:38,521 [main] INFO finatinium - Entered Url
+2022-04-13 10:29:43,880 [main] INFO finatinium - Entered password
+2022-04-13 10:29:43,881 [main] INFO finatinium - Entered password
+2022-04-13 10:29:49,787 [main] INFO finatinium - Test case passed
+2022-04-13 10:32:33,969 [main] INFO finatinium - Entered Url
+2022-04-13 10:32:39,406 [main] INFO finatinium - Entered password
+2022-04-13 10:32:39,406 [main] INFO finatinium - Entered password
+2022-04-13 10:32:45,295 [main] INFO finatinium - Test case passed
+2022-04-13 10:41:17,154 [main] INFO finatinium - Entered Url
+2022-04-13 10:41:22,729 [main] INFO finatinium - Entered password
+2022-04-13 10:41:22,730 [main] INFO finatinium - Entered password
+2022-04-13 10:41:28,675 [main] INFO finatinium - Test case passed
+2022-04-13 10:42:38,923 [main] INFO finatinium - Entered Url
+2022-04-13 10:42:44,563 [main] INFO finatinium - Entered password
+2022-04-13 10:42:44,563 [main] INFO finatinium - Entered password
+2022-04-13 10:42:50,509 [main] INFO finatinium - Test case passed
+2022-04-13 10:48:26,152 [main] INFO finatinium - Entered Url
+2022-04-13 10:48:31,653 [main] INFO finatinium - Entered password
+2022-04-13 10:48:31,653 [main] INFO finatinium - Entered password
+2022-04-13 10:48:37,589 [main] INFO finatinium - Test case passed
+2022-04-13 10:59:00,491 [main] INFO finatinium - Entered Url
+2022-04-13 10:59:06,062 [main] INFO finatinium - Entered password
+2022-04-13 10:59:06,062 [main] INFO finatinium - Entered password
+2022-04-13 10:59:11,986 [main] INFO finatinium - Test case passed
+2022-04-13 11:08:26,994 [main] INFO finatinium - Entered Url
+2022-04-13 11:09:43,917 [main] INFO finatinium - Entered Url
+2022-04-13 11:09:49,568 [main] INFO finatinium - Entered password
+2022-04-13 11:09:49,568 [main] INFO finatinium - Entered password
+2022-04-13 11:09:55,538 [main] INFO finatinium - Test case passed
+2022-04-13 11:10:56,600 [main] INFO finatinium - Entered Url
+2022-04-13 11:11:02,443 [main] INFO finatinium - Entered password
+2022-04-13 11:11:02,444 [main] INFO finatinium - Entered password
+2022-04-13 11:11:08,353 [main] INFO finatinium - Test case passed
+2022-04-13 11:12:04,110 [main] INFO finatinium - Entered Url
+2022-04-13 11:12:09,725 [main] INFO finatinium - Entered password
+2022-04-13 11:12:09,725 [main] INFO finatinium - Entered password
+2022-04-13 11:12:15,968 [main] INFO finatinium - Test case passed
+2022-04-13 11:13:00,020 [main] INFO finatinium - Entered Url
+2022-04-13 11:13:05,578 [main] INFO finatinium - Entered password
+2022-04-13 11:13:05,578 [main] INFO finatinium - Entered password
+2022-04-13 11:13:11,451 [main] INFO finatinium - Test case passed
+2022-04-13 11:13:34,290 [main] INFO finatinium - invoice payment done
+2022-04-13 17:17:32,297 [main] INFO finatinium - Entered Url
+2022-04-13 17:17:39,088 [main] INFO finatinium - Entered password
+2022-04-13 17:17:39,088 [main] INFO finatinium - Entered password
+2022-04-13 17:17:44,978 [main] INFO finatinium - Test case passed
+2022-04-14 22:56:50,600 [main] INFO finatinium - Entered Url
+2022-04-14 22:56:56,983 [main] INFO finatinium - Entered password
+2022-04-14 22:56:56,983 [main] INFO finatinium - Entered password
+2022-04-14 22:57:02,922 [main] INFO finatinium - Test case passed
+2022-04-14 23:14:40,177 [main] INFO finatinium - Entered Url
+2022-04-14 23:14:46,341 [main] INFO finatinium - Entered password
+2022-04-14 23:14:46,342 [main] INFO finatinium - Entered password
+2022-04-14 23:14:52,277 [main] INFO finatinium - Test case passed
+2022-04-15 12:19:17,220 [main] INFO finatinium - Entered Url
+2022-04-15 12:19:22,961 [main] INFO finatinium - Entered password
+2022-04-15 12:19:22,961 [main] INFO finatinium - Entered password
+2022-04-15 12:19:28,816 [main] INFO finatinium - Test case passed
+2022-04-15 12:37:34,604 [main] INFO finatinium - Entered Url
+2022-04-15 12:37:40,553 [main] INFO finatinium - Entered password
+2022-04-15 12:37:40,554 [main] INFO finatinium - Entered password
+2022-04-15 12:39:30,408 [main] INFO finatinium - Entered Url
+2022-04-15 12:39:36,225 [main] INFO finatinium - Entered password
+2022-04-15 12:39:36,225 [main] INFO finatinium - Entered password
+2022-04-15 12:39:42,032 [main] INFO finatinium - Test case passed
+2022-04-15 12:41:11,351 [main] INFO finatinium - Entered Url
+2022-04-15 12:41:17,075 [main] INFO finatinium - Entered password
+2022-04-15 12:41:17,075 [main] INFO finatinium - Entered password
+2022-04-15 12:41:22,970 [main] INFO finatinium - Test case passed
+2022-04-15 12:43:03,082 [main] INFO finatinium - Entered Url
+2022-04-15 12:43:08,854 [main] INFO finatinium - Entered password
+2022-04-15 12:43:08,855 [main] INFO finatinium - Entered password
+2022-04-15 12:43:14,734 [main] INFO finatinium - Test case passed
+2022-04-17 08:59:47,001 [main] INFO finatinium - Entered Url
+2022-04-17 08:59:52,852 [main] INFO finatinium - Entered password
+2022-04-17 08:59:52,852 [main] INFO finatinium - Entered password
+2022-04-17 08:59:58,753 [main] INFO finatinium - Test case passed
+2022-04-17 09:02:49,065 [main] INFO finatinium - Entered Url
+2022-04-17 09:02:55,285 [main] INFO finatinium - Entered password
+2022-04-17 09:02:55,287 [main] INFO finatinium - Entered password
+2022-04-17 09:03:01,270 [main] INFO finatinium - Test case passed
+2022-04-17 09:06:19,403 [main] INFO finatinium - Entered Url
+2022-04-17 09:06:25,165 [main] INFO finatinium - Entered password
+2022-04-17 09:06:25,165 [main] INFO finatinium - Entered password
+2022-04-17 09:06:31,011 [main] INFO finatinium - Test case passed
+2022-04-17 09:07:49,063 [main] INFO finatinium - Entered Url
+2022-04-17 09:07:54,746 [main] INFO finatinium - Entered password
+2022-04-17 09:07:54,746 [main] INFO finatinium - Entered password
+2022-04-17 09:08:00,626 [main] INFO finatinium - Test case passed
+2022-04-17 09:11:23,179 [main] INFO finatinium - Entered Url
+2022-04-17 09:11:29,029 [main] INFO finatinium - Entered password
+2022-04-17 09:11:29,029 [main] INFO finatinium - Entered password
+2022-04-17 09:11:34,942 [main] INFO finatinium - Test case passed
+2022-04-17 09:18:13,543 [main] INFO finatinium - Entered Url
+2022-04-17 09:18:19,343 [main] INFO finatinium - Entered password
+2022-04-17 09:18:19,343 [main] INFO finatinium - Entered password
+2022-04-17 09:18:25,309 [main] INFO finatinium - Test case passed
+2022-04-17 09:20:29,403 [main] INFO finatinium - Entered Url
+2022-04-17 09:20:35,103 [main] INFO finatinium - Entered password
+2022-04-17 09:20:35,103 [main] INFO finatinium - Entered password
+2022-04-17 09:20:40,922 [main] INFO finatinium - Test case passed
+2022-04-17 09:21:49,525 [main] INFO finatinium - Entered Url
+2022-04-17 09:21:55,296 [main] INFO finatinium - Entered password
+2022-04-17 09:21:55,297 [main] INFO finatinium - Entered password
+2022-04-17 09:22:01,130 [main] INFO finatinium - Test case passed
+2022-04-17 09:24:58,740 [main] INFO finatinium - Entered Url
+2022-04-17 09:25:05,025 [main] INFO finatinium - Entered password
+2022-04-17 09:25:05,026 [main] INFO finatinium - Entered password
+2022-04-17 09:25:10,882 [main] INFO finatinium - Test case passed
+2022-04-17 09:26:41,994 [main] INFO finatinium - Entered Url
+2022-04-17 09:26:47,680 [main] INFO finatinium - Entered password
+2022-04-17 09:26:47,680 [main] INFO finatinium - Entered password
+2022-04-17 09:26:53,553 [main] INFO finatinium - Test case passed
+2022-04-17 09:28:28,255 [main] INFO finatinium - Entered Url
+2022-04-17 09:28:33,940 [main] INFO finatinium - Entered password
+2022-04-17 09:28:33,940 [main] INFO finatinium - Entered password
+2022-04-17 09:28:39,817 [main] INFO finatinium - Test case passed
+2022-04-17 09:35:43,746 [main] INFO finatinium - Entered Url
+2022-04-17 09:35:49,662 [main] INFO finatinium - Entered password
+2022-04-17 09:35:49,662 [main] INFO finatinium - Entered password
+2022-04-17 09:35:55,841 [main] INFO finatinium - Test case passed
+2022-04-17 09:36:47,591 [main] INFO finatinium - Entered Url
+2022-04-17 09:36:53,380 [main] INFO finatinium - Entered password
+2022-04-17 09:36:53,381 [main] INFO finatinium - Entered password
+2022-04-17 09:36:59,154 [main] INFO finatinium - Test case passed
+2022-04-17 09:38:58,653 [main] INFO finatinium - Entered Url
+2022-04-17 09:39:04,302 [main] INFO finatinium - Entered password
+2022-04-17 09:39:04,303 [main] INFO finatinium - Entered password
+2022-04-17 09:39:10,161 [main] INFO finatinium - Test case passed
+2022-04-17 09:44:24,769 [main] INFO finatinium - Entered Url
+2022-04-17 09:44:30,459 [main] INFO finatinium - Entered password
+2022-04-17 09:44:30,460 [main] INFO finatinium - Entered password
+2022-04-17 09:44:36,353 [main] INFO finatinium - Test case passed
+2022-04-17 09:48:06,228 [main] INFO finatinium - Entered Url
+2022-04-17 09:48:11,894 [main] INFO finatinium - Entered password
+2022-04-17 09:48:11,894 [main] INFO finatinium - Entered password
+2022-04-17 09:48:17,708 [main] INFO finatinium - Test case passed
+2022-04-17 09:51:24,905 [main] INFO finatinium - Entered Url
+2022-04-17 09:51:30,681 [main] INFO finatinium - Entered password
+2022-04-17 09:51:30,682 [main] INFO finatinium - Entered password
+2022-04-17 09:51:36,538 [main] INFO finatinium - Test case passed
+2022-04-17 09:52:43,406 [main] INFO finatinium - Entered Url
+2022-04-17 09:52:49,422 [main] INFO finatinium - Entered password
+2022-04-17 09:52:49,422 [main] INFO finatinium - Entered password
+2022-04-17 09:52:55,247 [main] INFO finatinium - Test case passed

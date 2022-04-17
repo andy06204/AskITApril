@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Fintainium Payment]">
+  <listeners>
+    <listener class-name="utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="selenium.Accounting">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="Account"/>
+        </methods>
+      </class> <!-- selenium.Accounting -->
+      <class name="selenium.Salestax">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="sales"/>
+        </methods>
+      </class> <!-- selenium.Salestax -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Fintainium Payment] -->
