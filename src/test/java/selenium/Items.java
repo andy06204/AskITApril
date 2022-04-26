@@ -16,8 +16,8 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class Items  extends Baseclass{
-	public String item="Item3451";
-	public String unitprice="80.00";
+	public String item=randomestring();
+	public String unitprice=randomeNum();
 	public String description="Enter some description";
 	public String incomeaccount="Sales";
 	

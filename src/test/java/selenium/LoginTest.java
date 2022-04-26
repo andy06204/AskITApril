@@ -49,10 +49,10 @@ public class LoginTest extends Baseclass {
 //		driver.findElement(By.xpath("//input[@name='password']")).sendKeys(password);
 	logger.info("Entered password");
 	lp.btn_click1();
-	driver.findElement(By.xpath("//input[@type='radio' and @value='71720']")).click();
-	
-	driver.findElement(By.xpath("//div[@class='col-md-5']//button[@type='button']")).click();
-		
+//	driver.findElement(By.xpath("//input[@type='radio' and @value='71720']")).click();
+//	
+//	driver.findElement(By.xpath("//div[@class='col-md-5']//button[@type='button']")).click();
+//		
 		//driver.findElement(By.xpath("//button[contains(text(),'Login')]")).click();
 		
 		Thread.sleep(5000);

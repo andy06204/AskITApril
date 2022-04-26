@@ -6,6 +6,13 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
+      <class name="selenium.Items">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="Item"/>
+        </methods>
+      </class> <!-- selenium.Items -->
       <class name="selenium.Accounting">
         <methods>
           <include name="setup"/>
@@ -13,13 +20,27 @@
           <include name="Account"/>
         </methods>
       </class> <!-- selenium.Accounting -->
-      <class name="selenium.Salestax">
+      <class name="selenium.Uploadbills">
         <methods>
           <include name="setup"/>
           <include name="teardown"/>
-          <include name="sales"/>
+          <include name="upload"/>
         </methods>
-      </class> <!-- selenium.Salestax -->
+      </class> <!-- selenium.Uploadbills -->
+      <class name="selenium.TestInvoicecapture">
+        <methods>
+          <include name="setup"/>
+          <include name="invoicecapture"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- selenium.TestInvoicecapture -->
+      <class name="selenium.InvoicePayment">
+        <methods>
+          <include name="invoice"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- selenium.InvoicePayment -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Fintainium Payment] -->

@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="selenium.CreateBill">
+      <class name="selenium.Accounting">
         <methods>
-          <include name="createbill"/>
           <include name="setup"/>
           <include name="teardown"/>
+          <include name="Account"/>
         </methods>
-      </class> <!-- selenium.CreateBill -->
+      </class> <!-- selenium.Accounting -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

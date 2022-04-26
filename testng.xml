@@ -2,17 +2,30 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Fintainium Payment">
 
-<listeners>
+	<listeners>
 		<listener class-name="utilities.Reporting" />
 	</listeners>
-  <test thread-count="1" name="Test">
-    <classes>
-      <class name="selenium.LoginTest"/>
-      <class name="selenium.Billing"/>
-       <class name="selenium.Accounting"/>
-      
-    
-      <class name="selenium.Salestax"/>
-    </classes>
-  </test> <!-- Test -->
+	<test thread-count="1" name="Test">
+		<classes>
+			<class name="selenium.LoginTest" />
+			<class name="selenium.Billing" />
+			<class name="selenium.Accounting" />
+			<class name="selenium.AddBank" />
+			<class name="selenium.Addcustomer" />
+			<class name="selenium.Adduser" />
+			<class name="selenium.Addvendor" />
+			<class name="selenium.Billing" />
+			<class name="selenium.Billpayment" />
+			<class name="selenium.CreateBill" />
+			<class name="selenium.InvoicePayment" />
+			<class name="selenium.Items" />
+			<class name="selenium.LoginTest" />
+			<class name="selenium.Reports" />
+			<class name="selenium.Salestax" />
+			<class name="selenium.TestInvoicecapture" />
+			<class name="selenium.TranscationHistory" />
+			<class name="selenium.Uploadbills" />
+			<class name="selenium.Virtualcard" />
+		</classes>
+	</test> <!-- Test -->
 </suite> <!-- Suite -->

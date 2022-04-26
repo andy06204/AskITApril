@@ -10,12 +10,16 @@ import java.util.List;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
 
 public class CreateBill extends Baseclass {
+
+	
 	
 	@Test
 	
@@ -35,13 +39,14 @@ public class CreateBill extends Baseclass {
 		searchbox.sendKeys("new");//Enter the name of vendor here
 		searchbox.sendKeys(Keys.ENTER);// select the vendor
 		
-		driver.findElement(By.name("invoiceNumber")).sendKeys("1001");//Enter Billno
+		driver.findElement(By.name("invoiceNumber")).sendKeys("1002");//Enter Billno
 		Thread.sleep(5000);
+		driver.findElement(By.xpath("//tbody/tr[3]/td[2]/div[1]/div[1]/div[1]/button[2]")).click();
+		
+		selectdate("15","April","2022");
 		driver.findElement(By.xpath("//tbody/tr[2]/td[2]/div[1]/div[1]/div[1]/button[2]")).click();
 		selectdate("1","April","2022");
-		//driver.findElement(By.xpath("//tbody/tr[3]/td[2]/div[1]/div[1]/div[1]/button[2]")).click();
-		selectdate("5","April","2022");
-		
+
 
 	}
 	
@@ -66,16 +71,33 @@ public class CreateBill extends Baseclass {
 			
 		}
 		driver.findElement(By.xpath("//abbr[text()='"+exday+"']")).click();
-	}
-	
 		
+		
+		}
+	@Test(priority=1)
+	public static void invcedetails() {
+
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+
+	driver.findElement(By.name("invoicePO")).sendKeys("1");
+	
+	driver.findElement(By.name("term")).sendKeys("Net 15");
+	driver.findElement(By.xpath("//button[contains(text(),'Add lines')][1]")).click();
+	driver.findElement(By.name("expenseLineItems.0.name")).sendKeys("apples");
+	driver.findElement(By.name("expenseLineItems.0.unitPrice")).clear();
+	driver.findElement(By.name("expenseLineItems.0.unitPrice")).sendKeys("10");
+//	driver.findElement(By.name("totalTax")).clear();
+//	driver.findElement(By.name("totalTax")).sendKeys("10");
+	driver.findElement(By.xpath("//button[contains(text(),'Save')]")).click();
+	
+	
 		
 		//driver.findElement(By.xpath("//tbody/tr[2]/td[2]/div[1]/div[1]/div[1]/button[2]")).click();
-		
+	}
+}
 	
 		
 		
-	}	
 		
 		
 		

@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 public class Salestax extends Baseclass {
 	
-	public String taxname="MS1T";
+	public String taxname=randomestring();
 	public String taxrate="35";
 
 	
