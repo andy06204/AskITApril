@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="49018" started-at="2022-04-25T13:52:20 EDT" finished-at="2022-04-25T13:53:09 EDT">
+  <suite name="Default suite" duration-ms="38373" started-at="2022-09-13T10:52:11 EDT" finished-at="2022-09-13T10:52:49 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="49018" started-at="2022-04-25T13:52:20 EDT" finished-at="2022-04-25T13:53:09 EDT">
-      <class name="selenium.InvoicePayment">
-        <test-method status="PASS" signature="setup()[pri:0, instance:selenium.InvoicePayment@4923ab24]" name="setup" is-config="true" duration-ms="2642" started-at="2022-04-25T13:52:20 EDT" finished-at="2022-04-25T13:52:23 EDT">
+    <test name="Default test" duration-ms="38373" started-at="2022-09-13T10:52:11 EDT" finished-at="2022-09-13T10:52:49 EDT">
+      <class name="quickbooks.QBBANksync">
+        <test-method status="PASS" signature="setup()[pri:0, instance:quickbooks.QBBANksync@a38d7a3]" name="setup" is-config="true" duration-ms="4251" started-at="2022-09-13T10:52:11 EDT" finished-at="2022-09-13T10:52:15 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="invoice()[pri:0, instance:selenium.InvoicePayment@4923ab24]" name="invoice" duration-ms="35461" started-at="2022-04-25T13:52:23 EDT" finished-at="2022-04-25T13:52:58 EDT">
+        <test-method status="PASS" signature="Addbank()[pri:0, instance:quickbooks.QBBANksync@a38d7a3]" name="Addbank" duration-ms="23254" started-at="2022-09-13T10:52:15 EDT" finished-at="2022-09-13T10:52:38 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- invoice -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:selenium.InvoicePayment@4923ab24]" name="teardown" is-config="true" duration-ms="10892" started-at="2022-04-25T13:52:58 EDT" finished-at="2022-04-25T13:53:09 EDT">
+        </test-method> <!-- Addbank -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:quickbooks.QBBANksync@a38d7a3]" name="teardown" is-config="true" duration-ms="10834" started-at="2022-09-13T10:52:38 EDT" finished-at="2022-09-13T10:52:49 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- selenium.InvoicePayment -->
+      </class> <!-- quickbooks.QBBANksync -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

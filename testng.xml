@@ -8,24 +8,25 @@
 	<test thread-count="1" name="Test">
 		<classes>
 			<class name="selenium.LoginTest" />
-			<class name="selenium.Billing" />
-			<class name="selenium.Accounting" />
-			<class name="selenium.AddBank" />
-			<class name="selenium.Addcustomer" />
-			<class name="selenium.Adduser" />
-			<class name="selenium.Addvendor" />
-			<class name="selenium.Billing" />
-			<class name="selenium.Billpayment" />
-			<class name="selenium.CreateBill" />
-			<class name="selenium.InvoicePayment" />
-			<class name="selenium.Items" />
+			<class name="billing.Billing" />
+			<class name="accounting.Accounting" />
+			<class name="Bank.AddBank" />
+			<class name="customers.Addcustomer" />
+			<class name="users.Adduser" />
+			<class name="vendors.Addvendor" />
+			<class name="billing.Billing" />
+			<class name="accountspayable.Billpayment" />
+			<class name="accountspayable.CreateBill" />
+			<class name="accountsrecievable.InvoicePayment" />
+			<class name="items.Items" />
 			<class name="selenium.LoginTest" />
-			<class name="selenium.Reports" />
-			<class name="selenium.Salestax" />
-			<class name="selenium.TestInvoicecapture" />
-			<class name="selenium.TranscationHistory" />
-			<class name="selenium.Uploadbills" />
-			<class name="selenium.Virtualcard" />
+			<class name="reports.Reports" />
+			<class name="sales.Salestax" />
+			<class name="accountsrecievable.CreateInvoice" />
+            <class name="vendors.Rapidpay" />
+			<class name="accountspayable.Uploadbills" />
+			<class name="vccard.Virtualcard" />
+
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

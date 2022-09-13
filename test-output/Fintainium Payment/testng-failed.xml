@@ -6,41 +6,41 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="selenium.Items">
+      <class name="accountspayable.Billpayment">
         <methods>
           <include name="setup"/>
           <include name="teardown"/>
+          <include name="Billpay"/>
+        </methods>
+      </class> <!-- accountspayable.Billpayment -->
+      <class name="accountsrecievable.CreateInvoice">
+        <methods>
+          <include name="createinvoice"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- accountsrecievable.CreateInvoice -->
+      <class name="items.Items">
+        <methods>
+          <include name="setup"/>
           <include name="Item"/>
+          <include name="teardown"/>
         </methods>
-      </class> <!-- selenium.Items -->
-      <class name="selenium.Accounting">
+      </class> <!-- items.Items -->
+      <class name="billing.Billing">
+        <methods>
+          <include name="billing"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- billing.Billing -->
+      <class name="accountsrecievable.InvoicePayment">
         <methods>
           <include name="setup"/>
           <include name="teardown"/>
-          <include name="Account"/>
-        </methods>
-      </class> <!-- selenium.Accounting -->
-      <class name="selenium.Uploadbills">
-        <methods>
-          <include name="setup"/>
-          <include name="teardown"/>
-          <include name="upload"/>
-        </methods>
-      </class> <!-- selenium.Uploadbills -->
-      <class name="selenium.TestInvoicecapture">
-        <methods>
-          <include name="setup"/>
-          <include name="invoicecapture"/>
-          <include name="teardown"/>
-        </methods>
-      </class> <!-- selenium.TestInvoicecapture -->
-      <class name="selenium.InvoicePayment">
-        <methods>
           <include name="invoice"/>
-          <include name="setup"/>
-          <include name="teardown"/>
         </methods>
-      </class> <!-- selenium.InvoicePayment -->
+      </class> <!-- accountsrecievable.InvoicePayment -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Fintainium Payment] -->

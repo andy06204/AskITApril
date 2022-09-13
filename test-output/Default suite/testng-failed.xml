@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="selenium.Accounting">
+      <class name="quickbooks.QBBANksync">
         <methods>
+          <include name="Addbank"/>
           <include name="setup"/>
           <include name="teardown"/>
-          <include name="Account"/>
         </methods>
-      </class> <!-- selenium.Accounting -->
+      </class> <!-- quickbooks.QBBANksync -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

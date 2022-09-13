@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Fintainium Payment]">
-  <listeners>
-    <listener class-name="utilities.Reporting"/>
-  </listeners>
-  <test thread-count="5" name="Test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="selenium.Items">
+      <class name="quickbooks.QBBANksync">
         <methods>
+          <include name="Addbank"/>
           <include name="setup"/>
           <include name="teardown"/>
-          <include name="Item"/>
         </methods>
-      </class> <!-- selenium.Items -->
-      <class name="selenium.Accounting">
-        <methods>
-          <include name="setup"/>
-          <include name="teardown"/>
-          <include name="Account"/>
-        </methods>
-      </class> <!-- selenium.Accounting -->
-      <class name="selenium.Uploadbills">
-        <methods>
-          <include name="setup"/>
-          <include name="teardown"/>
-          <include name="upload"/>
-        </methods>
-      </class> <!-- selenium.Uploadbills -->
-      
+      </class> <!-- quickbooks.QBBANksync -->
     </classes>
-  </test> <!-- Test(failed) -->
-</suite> <!-- Failed suite [Fintainium Payment] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
